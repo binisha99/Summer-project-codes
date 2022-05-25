@@ -6,7 +6,7 @@ echo '
       </div>
       <ul>
         <li><a href="index.php">Home</a></li>
-        <li><a href="aboutus.php">About</li></a>
+        <li><a href="aboutus.php">About Us</li></a>
         <li><a href="contactus.php">Contact Us</li></a>
       </ul>
       <ul class="end">
