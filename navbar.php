@@ -12,7 +12,7 @@ echo '
       <ul class="end">
         <div class="container-gap">
           <li><i class="fa-light fa-user-gear nav-admin">Admin</i></li>
-          <li><i class="fa-light fa-user-gear nav-user">User</i></li>
+          <li><i class="fa-light fa-user-gear nav-user">Login</i></li>
         </div>
     </ul>
   </nav>
