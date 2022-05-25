@@ -1,0 +1,13 @@
+.form-control {
+    width: auto;
+}
+
+.container {
+    border: 2px solid #3f3f3f;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+    margin: auto;
+    width: fit-content;
+}

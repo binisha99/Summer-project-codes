@@ -65,6 +65,7 @@ nav>ul>li:hover{
     background: #fff;
     color: #333;
     padding: 1rem;
+    text-decoration: none;
 }
 
 /* .container-gap li:hover {
