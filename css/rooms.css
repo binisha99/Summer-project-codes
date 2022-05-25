@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+    body {
+      background-image: url("img/22.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    }
+
+    h1 {
+color:#AC3B61;
+font-size: 60px;
+font-weight: bolder;
+text-align: center;
+
+        }
+    h2
+    {
+        position: relative;
+        max-width: 509px;
+        margin: 2px auto;
+        text-align: center;
+        color:#123C69 ;
+        font-size:30px;
+        font-family: didot;
+        font-weight: bold;
+      }
+      
+      h2:before{
+        content:" ";
+        height: 5px;
+        width: 170px;
+        background:#EDC787;
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: -15px;
+      }
+      
+      h2:after{
+        content:" ";
+        height:5px;
+        width: 170px;
+        background:#EDC787;
+        display: block;
+        position: absolute;
+        top: 50%;
+        right: -15px;
+      }
+ .top{
+     display:flex;
+ }
+input[type=text] {
+    width: 321px;
+    padding: 19px;
+    border:none;
+    border-radius: 4px;
+    resize: vertical;
+    margin: 23px 17px 2px 420px;
+    display:flex;
+  }
+   
+  select{
+    width:321px;
+    text-align: center;
+    padding: 19px;
+    border: none;
+    border-radius: 4px;
+    resize: vertical;
+    margin: 23px 87px 2px -6px;
+}
+    
+    .container{
+    
+        margin-left: -10px;
+        margin-right: -10px;
+    }
+
+    .choice{
+        border-radius: 5px;
+        border:none;
+        text-align: center;
+        width:26vh;
+        height:40px;
+        cursor: pointer;
+        font-family:  Lucida Bright;
+        font-size:20px;
+        font-weight: bold;
+        border-radius: 2em;
+        margin:3px -9px 21px 25px;
+    
+
+    }
+    .btn1{
+  color: black; 
+  border:none;
+  background-color:#EDC787;
+  padding: 12px 39px;
+  border-radius: 2em;
+  margin:23px 9px 2px -74px;
+font-size: 20px;
+    }
+    .btn1:hover{
+        background-color: #b0ee65c1;
+  color: white;
+    }
+
+    form{
+        display: inline-table;
+    }
+    
+    button{
+        background:#eec989;
+        color:rgb(0, 0, 0);
+        cursor: pointer;
+        
+    }
+    button:hover{
+        background-color:#123C69;
+        color: white;
+    }
+    
+    table{
+        padding-top:-22px;
+        width:95%;
+    }
+    
+    .rooms img{
+      width:418px;
+      height:330px;
+      margin-top: 3em;  
+      border: 4px solid #BAB2B5;
+      margin: 26px -28px 0px 4px;
+      border-radius: 12px;
+    }
+    
+    center{
+        padding-top: 20px;
+        padding-bottom: -20px;
+        font-size:20px;
+        font-weight: bold;
+    
+    }
+    
+   

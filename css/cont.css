@@ -1,0 +1,104 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+  
+}
+.header{
+  height:300px;
+ 
+}
+.top_part{
+  width:auto;
+  height: 329px;
+  background-color: rgb(255, 255, 255);
+  height: 265px;
+  display: flex;
+}
+ h1{
+     font-size:75px;
+    margin-left: 183px;
+    font-family: Optima;                            
+      color:#123c69;
+    
+  }
+  .header  .ccc img{
+    width:362px;
+    height:260px;
+    margin-top: -231px;
+  float:right;
+  }
+  
+  h2{
+    
+    color:#872b49;
+    font-family: detroit;
+    margin-top:113px;
+    font-weight:bold;
+    font-size: 37px;
+    margin-left: -121px;
+    text-align: center;
+  }
+ 
+  h3{
+    font-size:40px;
+    font-family: detroit;
+    font-weight:bold;
+    text-align: center;
+  }
+  p{
+    font-size:25px;
+    font-family: detroit;
+    text-align: center;
+    margin-top: -46px;
+    margin-left: -11px;
+    color:#353b35;
+    font-weight: bold;
+  }
+  
+.column {
+  flex: 33.33%;
+  height: 54vh;
+  padding: 10px;
+  margin: 5px;
+  background-color: #fffafa;
+ border:3px solid #1c538d;
+ border-radius:13px;
+}
+.container {
+   display: flex;
+}
+.column .call{
+  display:flex;
+}
+.column .call img{
+  height:38px;
+  width:37px;
+  margin-top: 32px;
+  margin-left: 107px;
+
+}
+.column .email
+{
+  display: flex;
+}
+.column .email img{
+  height:46px;
+  width:49px;
+  margin-top: 20px;
+  margin-left: 30px;
+
+}
+.column .location img{
+  height:47px;
+  width:54px;
+  margin-top: 18px;
+  margin-left: 11px;
+}
+.column .location
+{
+  display: flex;
+}
