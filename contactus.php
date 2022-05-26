@@ -5,14 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<<<<<<< HEAD
-  <!-- <link rel="stylesheet" href="css/cont.css"> -->
-  <link rel="stylesheet" href="css/nav.css">
-  <link rel="stylesheet" href="css/contactus.css">
-=======
-  <link rel="stylesheet" href="cont.css">
+  <link rel="stylesheet" href="contactus.css">
   <link rel="stylesheet" href="nav.css">
->>>>>>> main
 
 </head>
 
